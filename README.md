@@ -1,250 +1,67 @@
-<!DOCTYPE html>
-<html>
-<title>SAZZAD HOSSAIN TASNIM</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
-  html,
-  body,
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    font-family: "Roboto", sans-serif
-  }
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+😁;I+am+RAKIN+SAD+AFTAB;&center=true&size=30">
+  </a>
+</h1>
 
-  .navbar {
-    overflow: hidden;
+<p align="center">
+<table>
+  <tr>
+    <th>Profile Stats</th>
+    <th>Language Contribution</th>
+  </tr>
+  <tr>
+    <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=aftabrakinsad&show_icons=true&theme=tokyonight" alt="aftabrakinsad"/></td>
+    <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftabrakinsad&langs_count=10&theme=tokyonight&layout=compact&hide=html"></td>
+  </tr>
+</table>
+<!--<img src="https://activity-graph.herokuapp.com/graph?username=aftabrakinsad&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>-->
+</p>
 
-  }
+<p align="middle">
+<table>
+  <tr>
+    <td>
+      <h3>Tools I Using</h3>
+        <p align="left">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" hight="30px"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" hight="30px"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30px" hight="30px"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="30px" hight="30px"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" hight="30px"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="30px" hight="30px"/>
+          <img src="https://devicon-website.vercel.app/api/dot-net/original.svg" width="50px" hight="50px"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40px" hight="40px"/>
+          <img src="https://devicon-website.vercel.app/api/docker/original.svg" width="50px" hight="50px"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" hight="50px"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="50px" hight="50px"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="50px" hight="50px"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50px" hight="50px"/>
+        <p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <h3>Tools I Already Used</h3>
+    <p align="left">
+      <img src="https://devicon-website.vercel.app/api/oracle/original.svg" width="50px" hight="50px"/>
+      <img src="https://devicon-website.vercel.app/api/opengl/original.svg" width="50px" hight="50px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" width="50px" hight="50px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50px" hight="50px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="50px" hight="50px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50px" hight="50px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50px" hight="50px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" width="50px" hight="50px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" hight="50px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="50px" hight="50px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="50px" hight="50px"/>
+    </p>
+    </td>
+  </tr>
+</table>
+</p>
 
-  .navbar a {
-    position: relative;
-    display: inline-block;
-    color: lime;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    text-decoration: none;
-    font-size: 24px;
-    overflow: hidden;
-    transition: 0.2s;
-    float: left;
-    float: right;
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 20px 20px;
-    text-decoration: none;
-  }
-
-  .navbar a.right {
-    float: right;
-  }
-
-  .navbar a.left {
-    float: left;
-  }
-
-  .navbar a:hover {
-    color: #255784;
-    background: #2196f3;
-    box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
-  }
-</style>
-
-<body class="w3-text-black" style="background-color:navy;">
-  <div class="navbar">
-    <a href="#" style="color:tomato;">TRI FO</a>
-    <a href="https://saad-x.github.io/-/" class="left" style="color: white;">Info</a>
-    <a href="https://medium.com/@rakinsadaftab" style="text-align: left;">Medium</a>
-    <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=BKGqgw8AAAAJ">Google Scholar</a>
-    <a href="https://t.me/rakinsadaftab">Telegram</a>
-  </div>
-
-  <!-- Page Container -->
-  <div class="w3-content w3-margin-top" style="max-width:1400px; background-color: navy;">
-
-    <!-- The Grid -->
-    <div class="w3-row-padding">
-
-      <!-- Left Column -->
-      <div class="w3-third">
-
-        <div class="w3-white w3-text-grey w3-card-4">
-          <div class="w3-display-container">
-
-            <img
-              src="https://avatars3.githubusercontent.com/u/66327542?s=460&u=70babde8a814dbc69424a344688dfed09492fde2&v=4"
-              style="width:100%" alt="Avatar">
-            <div class="w3-display-bottomleft w3-container w3-text-black">
-              <h2 style="color: white;">Rakin Sad Aftab</h2>
-            </div>
-          </div>
-          <div class="w3-container">
-            <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Student</p>
-            <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i> Dhaka, Bangladesh</p>
-            <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i><a
-                href="https://outlook.office.com/mail/inbox">20-43045-1@student.aiub.edu</a></p>
-            <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>Email or Dm me</p>
-            <hr>
-
-            <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
-            <p>Meme</p>
-            <div class="w3-light-grey w3-round-xlarge w3-small">
-              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">100%</div>
-            </div>
-            <p>Eating</p>
-            <div class="w3-light-grey w3-round-xlarge w3-small">
-              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">
-                <div class="w3-center w3-text-white">100%</div>
-              </div>
-            </div>
-            <p>Photography</p>
-            <div class="w3-light-grey w3-round-xlarge w3-small">
-              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:70%">70%</div>
-            </div>
-            <p>Media</p>
-            <div class="w3-light-grey w3-round-xlarge w3-small">
-              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">50%</div>
-            </div>
-            <br>
-
-            <p class="w3-large w3-text-theme"><b><i class="fa fa-code fa-fw w3-margin-right w3-text-teal"></i>Coding
-                Skills</b></p>
-            <p>C</p>
-            <div class="w3-light-grey w3-round-xlarge">
-              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
-            </div>
-            <p>C++</p>
-            <div class="w3-light-grey w3-round-xlarge">
-              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">80%</div>
-            </div>
-            <p>HTML</p>
-            <div class="w3-light-grey w3-round-xlarge">
-              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:70%">70%</div>
-            </div>
-            <br>
-          </div>
-        </div><br>
-
-        <!-- End Left Column -->
-      </div>
-
-      <!-- Right Column -->
-      <div class="w3-twothird">
-
-        <div class="w3-container w3-card w3-white">
-          <h2 class="w3-text-grey w3-padding-16"><i
-              class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
-
-          <div class="w3-container">
-            <h5 class="w3-opacity"><i class="fa fa-graduation-cap fa-fw w3-margin-right w3-large w3-text-teal"></i><b><a
-                  href="https://www.aiub.edu/" style="color: navy;">AIUB</a> </b></h5>
-            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2020 - present</h6>
-            <p>BSc in Computer Science(undergraduate)</p>
-            <hr>
-          </div>
-          <div class="w3-container">
-            <h5 class="w3-opacity"><i class="fa fa-graduation-cap fa-fw w3-margin-right w3-large w3-text-teal"></i><b><a
-                  href="http://www.dmrc.edu.bd/" style="color: navy;">Dr. Mahbubur Rahman Mollah College</a> </b></h5>
-            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2017 - 2019</h6>
-            <p>Higher Secondary certificate(HSC)</p>
-            <hr>
-          </div>
-          <div class="w3-container">
-            <h5 class="w3-opacity"><i class="fa fa-graduation-cap fa-fw w3-margin-right w3-large w3-text-teal"></i><b><a
-                  href="https://www.sohopathi.com/kaliganj-r-r-n-pilot-govt-high-school/" style="color: navy;">Motijheel Model High School</a> </b></h5>
-            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2011 - 2017</h6>
-            <p>Secondary School certificate(SSC)</p><br>
-          </div>
-        </div>
-
-        <!-- End Right Column -->
-      </div>
-      <div class="w3-twothird">
-        <div class="w3-container w3-card w3-white">
-
-          <h2 class="w3-text-grey w3-padding-16">
-            <i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Tools</h2>
-
-          <h3>Tools I Use For Coding</h3>
-          <h4>Jetbrains Education__Microsoft Education__Github Education__Others </h4>
-          <img src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg"
-            style="width:10%; height: 10%;">
-
-          <img src="https://blog.jetbrains.com/wp-content/uploads/2017/04/clion-CLion_400x400_Twitter_logo_white.png"
-            style="width:10%; height: 10%;">
-
-          <img src="https://pbs.twimg.com/profile_images/1206596574786269184/NKCyJIr8_400x400.jpg"
-            style="width:10%; height: 10%;">
-
-          <img
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRCGmV4LnJU8AxHneyG90tso1gAWIvqzZph7w&usqp=CAU"
-            style="width:10%; height: 10%;">
-
-          <img
-            src="https://3.bp.blogspot.com/-kwQy99fuCuM/W0w4MU2c8DI/AAAAAAAAAQA/EtXIXcxCCoop2NarVttKc-80UINynGrQQCLcBGAs/s1600/atom.jpg"
-            style="width:10%; height: 10%;">
-
-          <img src="https://www.macworld.co.uk/cmsdata/features/3639136/learn_git_mac_thumb800.jpg "
-            style="width:12%; height: 12%;">
-
-          <img src="https://avatars3.githubusercontent.com/u/684879?s=400&amp;v=4" style="width: 6.5%; height: 6.5%;">
-
-          <img
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdhJ0qtRWOUtr4GrA_fshFM3uE2jSM4bf7dw&usqp=CAU"
-            style="width:8%; height: 8%;">
-
-          <img
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTICgBe9KTMkXqPfIJidBZQpKFG7Lve6UqooQ&usqp=CAU"
-            style="width:10%; height: 10%;">
-
-          <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png"
-            style="width:8%; height: 8%;">
-        </div>
-
-      </div>
-
-      <div class="w3-twothird">
-
-        <div class="w3-container w3-card w3-white">
-
-          <h2 class="w3-text-grey w3-padding-16">
-            <i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Comming Soon</h2>
-
-
-        </div>
-
-
-      </div>
-
-
-      <!-- End Grid -->
-    </div>
-
-    <!-- End Page Container -->
-  </div>
-
-  <footer class="w3-container w3-teal w3-center w3-margin-top">
-    <p>Find me on social media.</p>
-    <a href="https://web.facebook.com/" class="fa fa-facebook-official w3-hover-opacity"
-      style="background-color:navy;"></a>
-    <a href="https://www.instagram.com/" class="fa fa-instagram w3-hover-opacity"
-      style="background-color:navy;"></a>
-    <a href="https://www.linkedin.com/in/" class="fa fa-linkedin w3-hover-opacity"
-      style="background-color:navy;"></a>
-    <a href="https://github.com/SAZZAD-HT" class="fa fa-github w3-hover-opacity" style="background-color:navy;"></a>
-    <a href="https://twitter.com/" class="fa fa-twitter-square w3-hover-opacity"
-      style="background-color:navy;"></a>
-    <p>Powered by <a href="https://saad-x.github.io/-/" class="w3-hover-opacity" target="_blank">TR I F O</a></p>
-    <p>2020 ©HT/p>
-  </footer>
-
-</body>
-
-</html>
+<p align="middle">
+<a href="mailto:rakinsadaftab@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rakinsadaftab@gmail.com-red?style=flat&logo=gmail&color=blue&theme=blue"></a>
+</p>

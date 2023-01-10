@@ -5,28 +5,11 @@
 </h1>
 
 <p align="center">
-<table>
-  <tr>
-    <th>Profile Stats</th>
-    <th>Language Contribution</th>
-  </tr>
-  <tr>
-    
-  </tr>
-</table>
+
 
 </p>
 
-<p align="middle">
-<table>
-  <tr>
-    <td>
-      <h3>Tools I Using</h3>
-        <p align="left">
-         dth="50px" hight="50px"/>
-        <p>
-    </td>
-  </tr>
+
   
   <tr>
     <td>

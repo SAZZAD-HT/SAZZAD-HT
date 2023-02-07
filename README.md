@@ -12,3 +12,6 @@
     <a href="">
         <img title="" alt="" src="https://github-readme-streak-stats.herokuapp.com?user=SAZZAD-HT&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=0093FF&ring=0093FF&background=0D1117&currStreakLabel=0093FF&border=30363D"/>
 </p>
+  <p align="center">
+    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SAZZAD-HT&show_icons=true&theme=gotham" alt="SAZZAD-HT" />
+    </p>

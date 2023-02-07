@@ -8,11 +8,11 @@
 <a href="mailto:sazzdaiub1b@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-sazzdaiub1b@gmail.com-red?style=flat&logo=gmail&color=blue&theme=blue">
  </a>
 
-  <img  width ="300"src="https://github-readme-streak-stats.herokuapp.com?user=SAZZAD-HT&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=0093FF&ring=0093FF&background=0D1117&currStreakLabel=0093FF&border=30363D"/>
+  <img  width ="300" src="https://github-readme-streak-stats.herokuapp.com?user=SAZZAD-HT&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=0093FF&ring=0093FF&background=0D1117&currStreakLabel=0093FF&border=30363D"/>
 
 
 
-  <img  width ="300"src="https://github-readme-stats.vercel.app/api?username=SAZZAD-HT&show_icons=true&theme=gotham" alt="SAZZAD-HT" />
+  <img  width ="300" src="https://github-readme-stats.vercel.app/api?username=SAZZAD-HT&show_icons=true&theme=gotham" alt="SAZZAD-HT" />
 
 <!-- 
 <a href="https://github.com/anuraghazra/github-readme-stats">

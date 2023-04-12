@@ -29,7 +29,7 @@
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazzad-ht&layout=compact&theme=gotham" alt="sazzad-ht" />
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=sazzad-ht&show_icons=true&theme=gotham" alt="sazzad-ht" />
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=sazzad-ht&theme=gotham" alt="sazzad-ht" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=sazzad_ht&layout=compact&theme=gotham" alt="sazzad-ht" />
+  
 </div>
 
 <div align="center">

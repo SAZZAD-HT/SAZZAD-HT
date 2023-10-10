@@ -2,6 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi;I+I+am+SAZZAD+HOSSAIN+TASNIM;&center=true&size=30">
     
   </a>
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzad-ht&label=Profile%20views&color=0e75b6&style=flat" alt="sazzad-ht" /> </p>
 

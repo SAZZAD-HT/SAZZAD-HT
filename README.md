@@ -25,8 +25,9 @@
 <div align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazzad-ht&layout=compact&theme=gotham" alt="sazzad-ht" />
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=sazzad-ht&show_icons=true&theme=gotham" alt="sazzad-ht" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=sazzad-ht&theme=gotham" alt="sazzad-ht" />
-  <a href="https://github-stats-alpha.vercel.app/api?username=sazzad-ht"></a>
+   <!-- <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=sazzad-ht&theme=gotham" alt="sazzad-ht" />-->
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SAZZAD-HT&theme=dracula" alt="GitHub Streak" /></a>
+ <a href="https://github-stats-alpha.vercel.app/api?username=sazzad-ht"></a>
 </div>
 
 <div align="center">

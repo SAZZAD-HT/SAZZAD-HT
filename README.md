@@ -33,12 +33,12 @@
 <div align="center">
   <h3>Contact Me:</h3>
   <a href="mailto:sazzdaiub1b@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-sazzdaiub1b%40gmail.com-red?style=flat-square&logo=gmail&color=blue&theme=blue" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-sazzdaiub1b%40gmail.com-red?style=flat-square&logo=gmail&color=blue&theme=red" alt="Gmail">
   </a>
 </div>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sazzadht"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sazzadht" /></a></p><br><br>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&weidth=100&section=footer"/>
 </p>
